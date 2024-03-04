@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm looking for new opportunities! [LinkedIn](https://www.linkedin.com/in/jvacek996/)
+Currently working as a Python Backend Engineer at [Lighthouse](https://www.mylighthouse.com/)
 
 ### Past experience
 - Custom software developer <a href='https://github.com/railnova'>@railnova</a>
